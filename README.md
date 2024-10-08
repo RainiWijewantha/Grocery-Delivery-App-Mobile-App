@@ -1,4 +1,4 @@
-# Grocery-Delivery-App-Mobile-App-
+# Grocery-Delivery-App-Mobile-App
 
 This includes,
 - Project zip file.
